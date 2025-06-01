@@ -2,7 +2,9 @@
 
 👤 Dezvoltator
 Realizat de POPESCU ANDREI GEROGE CONSTANTIN 
+
 📧 popescuandrei961@gmail.com
+
 🔗 https://www.linkedin.com/in/popescu-agc/
 
 # 🌸 Euphoria by Luminita – Magazin Online Shopify
